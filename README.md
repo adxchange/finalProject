@@ -1,2 +1,2 @@
 # FinalProject
-CSCI576 Final Project
+CSCI576 Final Project 
